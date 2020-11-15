@@ -1,0 +1,14 @@
+nav {
+  color: #ffffffff;
+  background-color: #95bf21;
+  width: 120px;
+  text-align: center;
+  padding: 4px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+
+nav, li {
+  float: right;
+}
